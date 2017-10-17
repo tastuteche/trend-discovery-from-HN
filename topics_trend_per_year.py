@@ -88,3 +88,15 @@ plot_year('phone', topics_phone)
 topics_editor = ['emacs', 'vim', 'atom', 'light table']
 plot_year('editor', topics_editor)
 
+topics_bitcoin = ['bitcoin', 'blockchain', 'litecoin', 'dogecoin']
+plot_year('bitcoin', topics_bitcoin)
+
+topics_nosql = ['cassandra', 'mongodb', 'couchdb',
+                'redis', 'riak', 'membase', 'neo4j', 'hbase']
+plot_year('nosql', topics_nosql)
+
+topics_db = ['mysql', 'oracle', 'postgresql']
+plot_year('db', topics_db)
+
+
+
